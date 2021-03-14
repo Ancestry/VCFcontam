@@ -65,4 +65,6 @@ python3 VCFcontam/predictSVR.py --model <trained_model_object_file> --vcf <vcf_f
 ```
 
 ## Citation:
-McCartney-Melstad E, Bi K, Han J, Foo CK. 2021. VCFcontam: A Machine Learning Approach to Estimate Cross-Sample Contamination from Variant Call Data. bioRxiv doi:[DOI]
+McCartney-Melstad E, Bi K, Han J, Foo CK. 2021. VCFcontam: A Machine Learning Approach to Estimate Cross-Sample Contamination from Variant Call Data. bioRxiv doi:10.1101/2021.03.12.435007
+
+<https://www.biorxiv.org/content/10.1101/2021.03.12.435007v1>
